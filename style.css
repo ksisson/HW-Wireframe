@@ -28,34 +28,34 @@ section {
   
 }
 article {
-    
+    position: relative;
     bottom: 10px;
     color: white;
     text-align: center;
-    background: blue;
-
+    background: gray;
     width: 710px;
-    height: 140px;
-    margin-top: 60px;
+    height: 170px;
+    margin-top: 30px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 10px;
     
-    
-
+}
+.largebox {
+    position: relative;
 }
 h1 {
     background: white;
     color: gray;
-    width:370px;
-    height: 40px;
-    margin: auto;
+    width:690px;
+    height: 60px;
+    margin: 15px 10px 10px 10px;
 }
 p {
     background: white;
     color: gray;
-    width: 370px;
-    height: 40px;
+    width: 690px;
+    height: 60px;
     margin: auto;
 }
 
